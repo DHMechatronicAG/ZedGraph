@@ -20,6 +20,7 @@ Fixed an issue with the scales that caused very small ranges to not display the 
   </metadata>
   <files>
     <file src="bin\Release\de\ZedGraph.resources.dll" target="lib\net35-Client\de\ZedGraph.resources.dll" />
+    <file src="bin\Release\pl\ZedGraph.resources.dll" target="lib\net35-Client\pl\ZedGraph.resources.dll" />
     <file src="bin\Release\es\ZedGraph.resources.dll" target="lib\net35-Client\es\ZedGraph.resources.dll" />
     <file src="bin\Release\fr\ZedGraph.resources.dll" target="lib\net35-Client\fr\ZedGraph.resources.dll" />
     <file src="bin\Release\hu\ZedGraph.resources.dll" target="lib\net35-Client\hu\ZedGraph.resources.dll" />
